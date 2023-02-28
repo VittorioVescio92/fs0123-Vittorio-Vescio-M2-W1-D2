@@ -367,27 +367,27 @@ footer {
   display: block;
   color: rgb(221, 61, 221); 
   padding: 10px;
-  background-color:rgba(255, 255, 255, 0.8);
+  background-color:rgba(255, 255, 255, 0.5);
   border: 2px solid white;
   border-radius: 5px;
   margin-top: 10px;
   font-size: 1.25rem;
   box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1);
-  backdrop-filter: blur(8px);
+  backdrop-filter: blur(2px);
 }
 
 .calendar{
   text-align: center;
   display: block;
   padding: 10px;
-  background-color:rgba(255, 255, 255, 0.8);
+  background-color:rgba(255, 255, 255, 0.5);
   border-radius: 5px;
   margin-top: 10px;
   color: blue;
   border: 2px solid white;
   font-size: 1.25rem;
   box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1);
-  backdrop-filter: blur(8px);
+  backdrop-filter: blur(2px);
 }
 
 .social{
@@ -395,13 +395,12 @@ footer {
   display: block;
   font-size: 1.3rem;
   padding: 10px;
-  background-color:rgba(255, 255, 255, 0.8
-);
+  background-color:rgba(255, 255, 255, 0.5);
   border-radius: 5px;
   color: blue;
   border: 2px solid white;
   box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1);
-  backdrop-filter: blur(8px);
+  backdrop-filter: blur(2px);
 }
 
 @media screen and (min-width: 701px) {
